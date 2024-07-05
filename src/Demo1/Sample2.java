@@ -6,4 +6,9 @@ public class Sample2
      {
 	      System.out.println("Sample2 : Shital");	
 	}
+     
+     public void m1()
+     {
+    	 System.out.println("ramesh2");
+     }
 }
